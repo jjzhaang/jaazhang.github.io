@@ -1,0 +1,33 @@
+.video-x {
+    position: relative;
+    width: 720px;
+    margin: auto;
+  }
+  
+  .canvas-barrage {
+    position: absolute;
+    width: 720px;
+    height: 380px;
+  }
+  .img-placeholder {
+    height: 380px;
+    width: 720px;
+    background-color: #000;
+  }
+  /*
+  @keyframes bgColor {
+      25% {
+          background-color: darkred;
+      }
+      50% {
+          background-color: darkgreen;
+      }
+      75% {
+          background-color: darkblue;
+      }
+      100% {
+          background-color: sliver;
+      }
+  }
+  */
+  
